@@ -1,0 +1,13 @@
+CHROM
+POS
+REF
+ALT
+chr_hg19
+pos_hg19
+ref_hg19_equals_ref_hg38
+E005_H3K79me2.narrowPeak
+E005_H3K9ac.narrowPeak
+E005_H3K9me3.narrowPeak
+E005_H4K12ac.narrowPeak
+E005_H4K8ac.narrowPeak
+E005_H4K91ac.narrowPeak	

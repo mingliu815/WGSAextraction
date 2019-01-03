@@ -1,0 +1,13 @@
+# [1]CHROM
+[2]POS
+[3]REF
+[4]ALT
+[5]FILTER
+ANNOVAR_refseq_Effect
+ANNOVAR_refseq_Transcript_ID
+ANNOVAR_refseq_Gene_ID
+ANNOVAR_refseq_Closest_gene(intergenic_only)
+ANNOVAR_refseq_HGVSc
+ANNOVAR_refseq_HGVSp
+ANNOVAR_refseq_Exon_Rank
+ANNOVAR_refseq_summary
